@@ -1,4 +1,5 @@
 go-f_ckyourself
 ===============
 
-A trivial language sanitizer in Go.
+A trivial language sanitizer in Go because I was feeling puckish one
+morning.
